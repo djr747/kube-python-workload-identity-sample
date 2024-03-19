@@ -1,0 +1,1 @@
+# kube-python-workload-identity-sample
